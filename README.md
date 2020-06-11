@@ -1,6 +1,13 @@
 # 深度学习模型实战-深度学习模型在各大公司实际生产环境的应用讲解文章
 建这个仓库的是因为工作之后发现生产环境中应用的模型需要做到速度和效果的平衡，并不是越复杂越好。所以一味的追求新的模型效果不大（并不是不追，也要多看新东西）。学到模型最终是要用，而且要用好，于是就建了这么个仓库，积累一下深度学习模型在各个公司中的应用以及细节，这样在自己工作中可以做到借鉴。主要是罗列一些各大公司分享的文章，涉及到搜索/推荐/自然语言处理(NLP)，持续更新...
 
+## 部署
+
+在我实际工作中，一般来说部署就是Flask+负载均衡，或者Grpc来提供服务。这个模块积累一下我看到不错的模型部署不错的文章
+
+[蘑菇街自研服务框架如何提升在线推理效率？](https://mp.weixin.qq.com/s/IzLtn1SR-aFuxXM3GNZbFw)
+简单介绍：使用协程解决并发问题，使用FLask提供Restful接口，进行容器化部署
+
 ## 搜索：
 
 [Albert在房产领域的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591787166&ver=2392&signature=VnSNP3xcAkOfae88FpCHo-R1DQXzXqtgmrNTELpOoUEUtGHw0EF7HkJt5F4jVKYq-HVuAT1xv1PwtwQLSKhgbYhtx6v0KLf08E*W8xEai6OgvOTT4daSO*2NZY-giofW&new=1)
