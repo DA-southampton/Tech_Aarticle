@@ -1,6 +1,6 @@
 ## 精读-Embedding技术在民宿推荐中的应用-201907
 
-我最近读了一篇文章，原文是这里[Embedding技术在民宿推荐中的应用](https://www.infoq.cn/article/d6B7B9DD-Nc4SruOb27B)
+我最近读了一篇文章，原文叫做<Embedding技术在民宿推荐中的应用>,参考链接在底部。
 
 我读了一遍，觉得有些点很有意思，于是就精读了一下。我先简单说一下这个文章给我带来了哪些思考，然后详细对这个文章做一个精读的介绍。如果时间不够的话，看第一部分就可以。
 
@@ -91,4 +91,12 @@ Embedding 的迭代更新
 - 引入其他属性，作为副信息和 Embedding 一起学习，顺便把其他属性的 Embedding 也提取出来。
 
 值得思考一下
+
+
+
+参考：
+
+[Embedding技术在民宿推荐中的应用](https://www.infoq.cn/article/d6B7B9DD-Nc4SruOb27B)
+
+
 
