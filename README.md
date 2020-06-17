@@ -14,7 +14,8 @@
 
 | 最近更新文章                                                 | 简单介绍                                                     | 进度(粗度/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [精读-Embedding技术在民宿推荐中的应用-201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
+| [精读-Embedding技术在民宿推荐中的应用-原文发表时间201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
+| [精读-ALBERT在房产领域的实践-原文发表时间202005]([https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/%E7%B2%BE%E8%AF%BB-ALBERT%E5%9C%A8%E6%88%BF%E4%BA%A7%E9%A2%86%E5%9F%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.md](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md)) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 
 
 
@@ -35,7 +36,7 @@
 
 | 搜索领域文章                                                 | 简单介绍                                                     | 进度(粗读/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [Albert在房产领域的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591787166&ver=2392&signature=VnSNP3xcAkOfae88FpCHo-R1DQXzXqtgmrNTELpOoUEUtGHw0EF7HkJt5F4jVKYq-HVuAT1xv1PwtwQLSKhgbYhtx6v0KLf08E*W8xEai6OgvOTT4daSO*2NZY-giofW&new=1) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概5个点  |                 |
+| [Albert在房产领域的应用-202005]([https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/%E7%B2%BE%E8%AF%BB-ALBERT%E5%9C%A8%E6%88%BF%E4%BA%A7%E9%A2%86%E5%9F%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.md](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md)) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 | [DSSM文本匹配模型在苏宁商品语义召回上的应用-201909](https://ai.51cto.com/art/201909/603290.htm) | 详细介绍了DSSM模型在苏宁召回的使用，细节很多，居然还点出用的hanlp做的分词（也太细了吧），推荐大家看看 |                 |
 | [Transformer在美团搜索排序中的实践-202004](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html) | （引用文中原句）本文旨在分享 Transformer 在美团搜索排序上的实践经验。内容会分为以下三个部分：第一部分对 Transformer 进行简单介绍，第二部分会介绍 Transfomer 在美团搜索排序上的应用以及实践经验，最后一部分是总结与展望。希望能对大家有所帮助和启发。 |                 |
 | [深度学习在文本领域的应用-201808](https://tech.meituan.com/2018/06/21/deep-learning-doc.html) | 美团的文章，主要是讲了基于深度学习的的文本匹配和排序模型。其中讲了DSSM和变种，引申出来美团自己的ClickNet，基于美团场景进行了优化，大家可以细看一下 |                 |
@@ -54,7 +55,7 @@
 
 | 推荐领域文章                                                 | 简单介绍                                                     | 进度(粗度/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [Embedding 技术在民宿推荐中的应用-201907](ww.batidu.com)     |                                                              |                 |
+| [Embedding 技术在民宿推荐中的应用-201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
 | [双 DNN 排序模型：在线知识蒸馏在爱奇艺推荐的实践-202002](https://www.infoq.cn/article/pUfNBe1o6FwiiPkxQy7C) | 还没看。。但是看文章写得效果很厉害，“其中，在爱奇艺短视频场景时长指标 +6.5%，点击率指标 +2.3%；图文推荐场景时长指标 +4.5%，点击率指标 +14% ”（引用自原文） |                 |
 | [美团BERT的探索和实践-201911](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html) | Bert在美团场景中的改进和优化，很厉害，细节很多               |                 |
 | [wide&deep 在贝壳推荐场景的实践-201912](https://mp.weixin.qq.com/s?__biz=MzI2ODA3NjcwMw%3D%3D&mid=2247483659&idx=1&sn=deb9c5e22eabd3c52d2418150a40c68a&scene=45#wechat_redirect) | 如题，看了之后感觉还不错，                                   |                 |
@@ -75,4 +76,3 @@
 | 智能客服领域文章                                             | 简单介绍 | 进度(粗读/精读) |
 | ------------------------------------------------------------ | -------- | --------------- |
 | [语义匹配在贝壳找房智能客服中的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591783120&ver=2392&signature=RZJ5qcZ5PEc0eHDi9eznGXdaoQM2s2WEgsQgMlft5aPuOUiveyUcsoMCIm-sefmm8sRV2OpzrpsoaR6xAv8He0Q84azUJ5wv5gcvB1KQcx7OyN7A1b0QIt2xIpvhSSRH&new=1) | 还没看   |                 |
-
