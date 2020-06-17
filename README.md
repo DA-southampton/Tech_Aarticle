@@ -15,7 +15,7 @@
 | 最近更新文章                                                 | 简单介绍                                                     | 进度(粗度/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | [精读-Embedding技术在民宿推荐中的应用-原文发表时间201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
-| [精读-ALBERT在房产领域的实践-原文发表时间202005]([https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/%E7%B2%BE%E8%AF%BB-ALBERT%E5%9C%A8%E6%88%BF%E4%BA%A7%E9%A2%86%E5%9F%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.md](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md)) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
+| [精读-ALBERT在房产领域的实践-原文发表时间202005](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 
 
 
@@ -36,7 +36,7 @@
 
 | 搜索领域文章                                                 | 简单介绍                                                     | 进度(粗读/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [Albert在房产领域的应用-202005]([https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/%E7%B2%BE%E8%AF%BB-ALBERT%E5%9C%A8%E6%88%BF%E4%BA%A7%E9%A2%86%E5%9F%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.md](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md)) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
+| [Albert在房产领域的应用-202005](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 | [DSSM文本匹配模型在苏宁商品语义召回上的应用-201909](https://ai.51cto.com/art/201909/603290.htm) | 详细介绍了DSSM模型在苏宁召回的使用，细节很多，居然还点出用的hanlp做的分词（也太细了吧），推荐大家看看 |                 |
 | [Transformer在美团搜索排序中的实践-202004](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html) | （引用文中原句）本文旨在分享 Transformer 在美团搜索排序上的实践经验。内容会分为以下三个部分：第一部分对 Transformer 进行简单介绍，第二部分会介绍 Transfomer 在美团搜索排序上的应用以及实践经验，最后一部分是总结与展望。希望能对大家有所帮助和启发。 |                 |
 | [深度学习在文本领域的应用-201808](https://tech.meituan.com/2018/06/21/deep-learning-doc.html) | 美团的文章，主要是讲了基于深度学习的的文本匹配和排序模型。其中讲了DSSM和变种，引申出来美团自己的ClickNet，基于美团场景进行了优化，大家可以细看一下 |                 |
