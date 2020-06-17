@@ -22,8 +22,6 @@ Bert 简单粗暴效果好，估计很多同学一直在想上线，奈何Bert �
 
 我先说一下自己的经验，之前线下测试过 ALbert 的效果，和 Bert 比，效果掉的有点多，而且推理速度和 Bert 相比并不是特别的有优势。所以我们来看一下贝壳找房为了模型上线做了哪些努力。
 
-*******
-
 #### 2.1模型的选择
 
 贝壳找房使用的是 <font color=SaddleBrown>Albert_Tiny </font>模型。对于 Albert_Tiny，结构是 4 层 Encoder。
@@ -33,8 +31,6 @@ Bert 简单粗暴效果好，估计很多同学一直在想上线，奈何Bert �
 其实对于 Albert ，原理就不多说了，注意它有个细节点：模型大小减少最主要的原因是共享参数的存在。所以在推理的时候，速度优势并不明显，该做的推理并没有减少多少。
 
 为了解决这个问题，贝壳找房这里使用的是 4 层 encoder，其实推理速度变快主要是因为这个，层数减少了，推理速度就变快了。
-
-*******
 
 #### 2.2模型训练
 
@@ -93,8 +89,6 @@ Bert 简单粗暴效果好，估计很多同学一直在想上线，奈何Bert �
 - <font color= RoyalBlue>Baseline：fasttext 0.75</font>
 - <font color= RoyalBlue>原始albert+微调 0.80</font>
 - <font color= RoyalBlue>原始albert+领域训练+微调 0.83</font>
-
-******
 
 #### 2.5 意图识别上线
 
