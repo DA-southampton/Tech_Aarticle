@@ -50,6 +50,14 @@
 | [小米移动搜索中的 AI 技术-201906](https://www.infoq.cn/article/1pcW2hMQt6wsFxaN*srw) | 大概讲了一下搜索中用的技术，比如文本相似度-dssm，具体的看文章吧 |                 |
 | [深度学习在搜索业务中的探索与实践-美团-201901](https://tech.meituan.com/2019/01/10/deep-learning-in-meituan-hotel-search-engine.html) | （引用文中原句）本文会首先介绍一下酒店搜索的业务特点，作为O2O搜索的一种，酒店搜索和传统的搜索排序相比存在很大的不同。第二部分介绍深度学习在酒店搜索NLP中的应用。第三部分会介绍深度排序模型在酒店搜索的演进路线，因为酒店业务的特点和历史原因，美团酒店搜索的模型演进路线可能跟大部分公司都不太一样。最后一部分是总结。 |                 |
 | [深度学习在搜狗无线搜索广告中的应用-201803](https://cloud.tencent.com/developer/article/1063013) | （引用文中原句）本次分享主要介绍深度学习在搜狗无线搜索广告中有哪些应用场景，以及分享了我们的一些成果，重点讲解了如何实现基于多模型融合的CTR预估，以及模型效果如何评估，最后和大家探讨DL、CTR 预估的特点及未来的一些方向。 |                 |
+| [百度中文纠错技术](https://mp.weixin.qq.com/s/r0kWgPHKthPgGqTbVc3lKw) | 主要讲了中文纠错技术，接下来会重点精读中文纠错方面的。       |                 |
+| [达观数据搜索引擎的Query自动纠错技术和架构详解](http://t.cn/Rql7mz9) |                                                              |                 |
+| [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ) |                                                              |                 |
+| [搜索中的Query扩展技术](https://mp.weixin.qq.com/s/WRVwKaWvY-j-bkjxCprckQ) |                                                              |                 |
+| [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/4UBehc0eikVqcsFP7xL_Zw) |                                                              |                 |
+| [搜索相关性算法在 DiDi Food 中的探索](https://www.infoq.cn/article/01O8GTA66sakZOtbyUcL) |                                                              |                 |
+| [滴滴搜索系统的深度学习演进之路](https://www.infoq.cn/article/01O8GTA66sakZOtbyUcL) |                                                              |                 |
+| [说一说视频搜索](https://zhuanlan.zhihu.com/p/144359114?utm_source=wechat_session&utm_medium=social&utm_oi=691775466138251264&utm_content=sec) |             
 
 ## 推荐：
 
@@ -70,9 +78,18 @@
 | [深度学习在58同城智能推荐系统中的应用实践-201802](https://mp.weixin.qq.com/s/qCpCHueEK7Nja-cPmlCaCg?) |                                                              |                 |
 | [携程个性化推荐算法实践-201801](https://zhuanlan.zhihu.com/p/32785759) |                                                              |                 |
 | [深度学习在美团点评推荐平台排序中的运用-201707](https://tech.meituan.com/2017/07/28/dl.html) |                                                              |                 |
+| [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/flmPJtzeXLXDQXusI3Umxw) |                                                              |                 |
+| [智能推荐算法在直播场景中的应用--花椒推荐系统](https://mp.weixin.qq.com/s/fUdKIqygxqlkuv0P4wiIRg) |       
 
-## 智能客服：
+## NLP其他领域：
 
-| 智能客服领域文章                                             | 简单介绍 | 进度(粗读/精读) |
+| NLP 其他领域文章                                             | 简单介绍 | 进度(粗读/精读) |
 | ------------------------------------------------------------ | -------- | --------------- |
 | [语义匹配在贝壳找房智能客服中的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591783120&ver=2392&signature=RZJ5qcZ5PEc0eHDi9eznGXdaoQM2s2WEgsQgMlft5aPuOUiveyUcsoMCIm-sefmm8sRV2OpzrpsoaR6xAv8He0Q84azUJ5wv5gcvB1KQcx7OyN7A1b0QIt2xIpvhSSRH&new=1) | 还没看   |                 |
+| [百度语义解析 ( Text-to-SQL ) 技术研究及应用](https://mp.weixin.qq.com/s/2ub1qbLF7cRGE_E0TsSB4g) |          |                 |
+| [丁香园在语义匹配任务上的探索与实践](https://mp.weixin.qq.com/s/Zn7oXWQPOt6KM1MsOtYfxA) |          |                 |
+| [大规模预训练模型在阿里机器翻译中的应用](https://mp.weixin.qq.com/s/phPU0SDcTQ6l1fnZi2Hy-Q) |          |                 |
+| [情感分析算法在阿里小蜜的应用实践](https://mp.weixin.qq.com/s/k-gS6k3-hy-ZI_r901IGvg) |          |                 |
+| [AI技术如何打造58同城智能客服商家版“微聊管家”](https://mp.weixin.qq.com/s/_D9HX03ZmnXXX72MTrCx7g) |          |                 |
+| [58同城智能客服技术解密](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q) |          |                 |
+| [深度文本表征与深度文本聚类在小样本场景中的探索与实践](https://mp.weixin.qq.com/s/dWAf2kczbjhQGhn8MZdjAQ) | 
