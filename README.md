@@ -79,7 +79,24 @@
 | [携程个性化推荐算法实践-201801](https://zhuanlan.zhihu.com/p/32785759) |                                                              |                 |
 | [深度学习在美团点评推荐平台排序中的运用-201707](https://tech.meituan.com/2017/07/28/dl.html) |                                                              |                 |
 | [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/flmPJtzeXLXDQXusI3Umxw) |                                                              |                 |
-| [智能推荐算法在直播场景中的应用--花椒推荐系统](https://mp.weixin.qq.com/s/fUdKIqygxqlkuv0P4wiIRg) |       
+| [智能推荐算法在直播场景中的应用--花椒推荐系统](https://mp.weixin.qq.com/s/fUdKIqygxqlkuv0P4wiIRg) |  
+
+## 多模态：
+
+| 多模态相关文章                                             | 简单介绍 | 进度(粗读/精读) |
+| ------------------------------------------------------------ | -------- | --------------- |
+|[爱奇艺短视频分类技术解析](https://www.infoq.cn/article/f49e-Gb1xQxh8DttFDgb)|全文重点在三个，一个是爱奇艺视频分类体系，一个是层次表示模块，一个是特征模块，介绍的比较详细，需要精读一下||
+|[爱奇艺短视频质量评估模型](https://toutiao.io/posts/pbf8qf/preview)|介绍封面文本视频内容质量评分，大概读一下就可以||
+|[阿里文娱多模态视频分类算法中的特征改进](https://www.6aiq.com/article/1585549128737)|主要介绍类目体系构建介绍，模型特征调优，模型调优，值得精读一下||
+|[爱奇艺短视频软色情识别技术解析](https://www.infoq.cn/article/D7Ks_lLADmKFIm7ipMlP)|很细致，看一下||
+|[优酷在多模态内容理解上的研究及应用](https://www.infoq.cn/article/xgP_eyfidAA2l5ShcCPp)|主要是一些多模态概念的讲解，干货不多，大概看一下就可以||
+|[多模态商品分类解决方案-深度学习在真实NAVER购物网站的应用](https://juejin.im/post/5d2dc7a9f265da1b96133852)|细节点比较多，偏实战，精读一下||
+|[FashionBERT 电商领域多模态研究：如何做图文拟合？](https://developer.aliyun.com/article/763357)|||
+|[阿里文娱搜索算法实践与思考](https://www.infoq.cn/article/RUlwIBXPmUKILgqiyR4I)|||
+|[NLP 技术在微博 feed 流中的应用](https://www.infoq.cn/article/O5ytPDlYkfX3H26k6zru)|||
+|[5G 时代下：多模态理解做不到位注定要掉队](https://www.infoq.cn/article/EoEdfBO3-RNW1btNsQjJ)|||
+|[短视频数据补充1](https://www.ctolib.com/yuanxiaosc-Multimodal-short-video-dataset-and-baseline-classification-model.html)[补充2](https://yuanxiaosc.github.io/2019/07/11/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/)|||
+
 
 ## NLP其他领域：
 
