@@ -14,7 +14,8 @@
 
 | 最近更新文章                                                 | 简单介绍                                                     | 进度(粗度/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [精读-Embedding技术在民宿推荐中的应用-201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
+| [精读-Embedding技术在民宿推荐中的应用-原文发表时间201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
+| [精读-ALBERT在房产领域的实践-原文发表时间202005](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 
 
 
@@ -35,7 +36,7 @@
 
 | 搜索领域文章                                                 | 简单介绍                                                     | 进度(粗读/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [Albert在房产领域的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591787166&ver=2392&signature=VnSNP3xcAkOfae88FpCHo-R1DQXzXqtgmrNTELpOoUEUtGHw0EF7HkJt5F4jVKYq-HVuAT1xv1PwtwQLSKhgbYhtx6v0KLf08E*W8xEai6OgvOTT4daSO*2NZY-giofW&new=1) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概5个点  |                 |
+| [Albert在房产领域的应用-202005](https://github.com/DA-southampton/Tech_Aarticle/blob/master/content/精读-ALBERT在房产领域的实践.md) | 讲的是贝壳用ALbert做意图分类，和Fasttext相比，提了大概8个点，推理速度耗时20ms | 精读完成        |
 | [DSSM文本匹配模型在苏宁商品语义召回上的应用-201909](https://ai.51cto.com/art/201909/603290.htm) | 详细介绍了DSSM模型在苏宁召回的使用，细节很多，居然还点出用的hanlp做的分词（也太细了吧），推荐大家看看 |                 |
 | [Transformer在美团搜索排序中的实践-202004](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html) | （引用文中原句）本文旨在分享 Transformer 在美团搜索排序上的实践经验。内容会分为以下三个部分：第一部分对 Transformer 进行简单介绍，第二部分会介绍 Transfomer 在美团搜索排序上的应用以及实践经验，最后一部分是总结与展望。希望能对大家有所帮助和启发。 |                 |
 | [深度学习在文本领域的应用-201808](https://tech.meituan.com/2018/06/21/deep-learning-doc.html) | 美团的文章，主要是讲了基于深度学习的的文本匹配和排序模型。其中讲了DSSM和变种，引申出来美团自己的ClickNet，基于美团场景进行了优化，大家可以细看一下 |                 |
@@ -49,12 +50,20 @@
 | [小米移动搜索中的 AI 技术-201906](https://www.infoq.cn/article/1pcW2hMQt6wsFxaN*srw) | 大概讲了一下搜索中用的技术，比如文本相似度-dssm，具体的看文章吧 |                 |
 | [深度学习在搜索业务中的探索与实践-美团-201901](https://tech.meituan.com/2019/01/10/deep-learning-in-meituan-hotel-search-engine.html) | （引用文中原句）本文会首先介绍一下酒店搜索的业务特点，作为O2O搜索的一种，酒店搜索和传统的搜索排序相比存在很大的不同。第二部分介绍深度学习在酒店搜索NLP中的应用。第三部分会介绍深度排序模型在酒店搜索的演进路线，因为酒店业务的特点和历史原因，美团酒店搜索的模型演进路线可能跟大部分公司都不太一样。最后一部分是总结。 |                 |
 | [深度学习在搜狗无线搜索广告中的应用-201803](https://cloud.tencent.com/developer/article/1063013) | （引用文中原句）本次分享主要介绍深度学习在搜狗无线搜索广告中有哪些应用场景，以及分享了我们的一些成果，重点讲解了如何实现基于多模型融合的CTR预估，以及模型效果如何评估，最后和大家探讨DL、CTR 预估的特点及未来的一些方向。 |                 |
+| [百度中文纠错技术](https://mp.weixin.qq.com/s/r0kWgPHKthPgGqTbVc3lKw) | 主要讲了中文纠错技术，接下来会重点精读中文纠错方面的。       |                 |
+| [达观数据搜索引擎的Query自动纠错技术和架构详解](http://t.cn/Rql7mz9) |                                                              |                 |
+| [搜索中的 Query 理解及应用](https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ) |                                                              |                 |
+| [搜索中的Query扩展技术](https://mp.weixin.qq.com/s/WRVwKaWvY-j-bkjxCprckQ) |                                                              |                 |
+| [京东电商搜索中的语义检索与商品排序](https://mp.weixin.qq.com/s/4UBehc0eikVqcsFP7xL_Zw) |                                                              |                 |
+| [搜索相关性算法在 DiDi Food 中的探索](https://www.infoq.cn/article/01O8GTA66sakZOtbyUcL) |                                                              |                 |
+| [滴滴搜索系统的深度学习演进之路](https://www.infoq.cn/article/01O8GTA66sakZOtbyUcL) |                                                              |                 |
+| [说一说视频搜索](https://zhuanlan.zhihu.com/p/144359114?utm_source=wechat_session&utm_medium=social&utm_oi=691775466138251264&utm_content=sec) |             
 
 ## 推荐：
 
 | 推荐领域文章                                                 | 简单介绍                                                     | 进度(粗度/精读) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| [Embedding 技术在民宿推荐中的应用-201907](ww.batidu.com)     |                                                              |                 |
+| [Embedding 技术在民宿推荐中的应用-201907](./content/精读-Embedding技术在民宿推荐中的应用-201907.md) | 使用item2vec对app内房源进行embding，然后进行推荐，细节比较多，包括训练细节，数据构造细节等等，推荐看一看，我自己有精读，大家可以对照着看一看 | 精读完成        |
 | [双 DNN 排序模型：在线知识蒸馏在爱奇艺推荐的实践-202002](https://www.infoq.cn/article/pUfNBe1o6FwiiPkxQy7C) | 还没看。。但是看文章写得效果很厉害，“其中，在爱奇艺短视频场景时长指标 +6.5%，点击率指标 +2.3%；图文推荐场景时长指标 +4.5%，点击率指标 +14% ”（引用自原文） |                 |
 | [美团BERT的探索和实践-201911](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html) | Bert在美团场景中的改进和优化，很厉害，细节很多               |                 |
 | [wide&deep 在贝壳推荐场景的实践-201912](https://mp.weixin.qq.com/s?__biz=MzI2ODA3NjcwMw%3D%3D&mid=2247483659&idx=1&sn=deb9c5e22eabd3c52d2418150a40c68a&scene=45#wechat_redirect) | 如题，看了之后感觉还不错，                                   |                 |
@@ -69,10 +78,35 @@
 | [深度学习在58同城智能推荐系统中的应用实践-201802](https://mp.weixin.qq.com/s/qCpCHueEK7Nja-cPmlCaCg?) |                                                              |                 |
 | [携程个性化推荐算法实践-201801](https://zhuanlan.zhihu.com/p/32785759) |                                                              |                 |
 | [深度学习在美团点评推荐平台排序中的运用-201707](https://tech.meituan.com/2017/07/28/dl.html) |                                                              |                 |
+| [Embedding技术在房产推荐中的应用](https://mp.weixin.qq.com/s/flmPJtzeXLXDQXusI3Umxw) |                                                              |                 |
+| [智能推荐算法在直播场景中的应用--花椒推荐系统](https://mp.weixin.qq.com/s/fUdKIqygxqlkuv0P4wiIRg) |  
 
-## 智能客服：
+## 多模态：
 
-| 智能客服领域文章                                             | 简单介绍 | 进度(粗读/精读) |
+| 多模态相关文章                                             | 简单介绍 | 进度(粗读/精读) |
+| ------------------------------------------------------------ | -------- | --------------- |
+|[爱奇艺短视频分类技术解析](https://www.infoq.cn/article/f49e-Gb1xQxh8DttFDgb)|全文重点在三个，一个是爱奇艺视频分类体系，一个是层次表示模块，一个是特征模块，介绍的比较详细，需要精读一下||
+|[爱奇艺短视频质量评估模型](https://toutiao.io/posts/pbf8qf/preview)|介绍封面文本视频内容质量评分，大概读一下就可以||
+|[阿里文娱多模态视频分类算法中的特征改进](https://www.6aiq.com/article/1585549128737)|主要介绍类目体系构建介绍，模型特征调优，模型调优，值得精读一下||
+|[爱奇艺短视频软色情识别技术解析](https://www.infoq.cn/article/D7Ks_lLADmKFIm7ipMlP)|很细致，看一下||
+|[优酷在多模态内容理解上的研究及应用](https://www.infoq.cn/article/xgP_eyfidAA2l5ShcCPp)|主要是一些多模态概念的讲解，干货不多，大概看一下就可以||
+|[多模态商品分类解决方案-深度学习在真实NAVER购物网站的应用](https://juejin.im/post/5d2dc7a9f265da1b96133852)|细节点比较多，偏实战，精读一下||
+|[FashionBERT 电商领域多模态研究：如何做图文拟合？](https://developer.aliyun.com/article/763357)|||
+|[阿里文娱搜索算法实践与思考](https://www.infoq.cn/article/RUlwIBXPmUKILgqiyR4I)|||
+|[NLP 技术在微博 feed 流中的应用](https://www.infoq.cn/article/O5ytPDlYkfX3H26k6zru)|||
+|[5G 时代下：多模态理解做不到位注定要掉队](https://www.infoq.cn/article/EoEdfBO3-RNW1btNsQjJ)|||
+|[短视频数据补充1](https://www.ctolib.com/yuanxiaosc-Multimodal-short-video-dataset-and-baseline-classification-model.html)[补充2](https://yuanxiaosc.github.io/2019/07/11/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/)|||
+
+
+## NLP其他领域：
+
+| NLP 其他领域文章                                             | 简单介绍 | 进度(粗读/精读) |
 | ------------------------------------------------------------ | -------- | --------------- |
 | [语义匹配在贝壳找房智能客服中的应用-202005](https://mp.weixin.qq.com/s?src=11&timestamp=1591783120&ver=2392&signature=RZJ5qcZ5PEc0eHDi9eznGXdaoQM2s2WEgsQgMlft5aPuOUiveyUcsoMCIm-sefmm8sRV2OpzrpsoaR6xAv8He0Q84azUJ5wv5gcvB1KQcx7OyN7A1b0QIt2xIpvhSSRH&new=1) | 还没看   |                 |
-
+| [百度语义解析 ( Text-to-SQL ) 技术研究及应用](https://mp.weixin.qq.com/s/2ub1qbLF7cRGE_E0TsSB4g) |          |                 |
+| [丁香园在语义匹配任务上的探索与实践](https://mp.weixin.qq.com/s/Zn7oXWQPOt6KM1MsOtYfxA) |          |                 |
+| [大规模预训练模型在阿里机器翻译中的应用](https://mp.weixin.qq.com/s/phPU0SDcTQ6l1fnZi2Hy-Q) |          |                 |
+| [情感分析算法在阿里小蜜的应用实践](https://mp.weixin.qq.com/s/k-gS6k3-hy-ZI_r901IGvg) |          |                 |
+| [AI技术如何打造58同城智能客服商家版“微聊管家”](https://mp.weixin.qq.com/s/_D9HX03ZmnXXX72MTrCx7g) |          |                 |
+| [58同城智能客服技术解密](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q) |          |                 |
+| [深度文本表征与深度文本聚类在小样本场景中的探索与实践](https://mp.weixin.qq.com/s/dWAf2kczbjhQGhn8MZdjAQ) | 
