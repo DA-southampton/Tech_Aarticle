@@ -96,6 +96,9 @@
 |[NLP 技术在微博 feed 流中的应用](https://www.infoq.cn/article/O5ytPDlYkfX3H26k6zru)|||
 |[5G 时代下：多模态理解做不到位注定要掉队](https://www.infoq.cn/article/EoEdfBO3-RNW1btNsQjJ)|||
 |[短视频数据补充1](https://www.ctolib.com/yuanxiaosc-Multimodal-short-video-dataset-and-baseline-classification-model.html)[补充2](https://yuanxiaosc.github.io/2019/07/11/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%86%E7%B1%BB%E6%8A%80%E6%9C%AF/)|||
+|[UC信息流视频标签识别技术](https://www.secrss.com/articles/14055)|||
+|[技术动态-多模态学习调研 (附完整PPT）](https://mp.weixin.qq.com/s/g3rwPsusYi7gQopOHvdNrA)|||
+|[多模态情感分析简述](https://mp.weixin.qq.com/s/xzeNAuuDt_VLHDgvIkc-Mg)|||
 
 
 ## NLP其他领域：
