@@ -120,18 +120,25 @@
 
 搜索中的 Query 理解及应用
 https://mp.weixin.qq.com/s/rZMtsbMuyGwcy2KU7mzZhQ
+
 搜索中的Query扩展技术
 https://mp.weixin.qq.com/s/WRVwKaWvY-j-bkjxCprckQ
+
 京东电商搜索中的语义检索与商品排序
 https://mp.weixin.qq.com/s/4UBehc0eikVqcsFP7xL_Zw
+
 机器学习在高德搜索建议中的应用优化实践
 https://mp.weixin.qq.com/s/D3qxlzZgwnMprzEVuMpmgg
+
 再谈搜索中的Query扩展技术
 https://mp.weixin.qq.com/s/q4aPtUYi27h-0sqD4bokQQ
+
 搜索query意图识别的演进-微信AI
 https://mp.weixin.qq.com/s/0Hh_iV8tNFd0eEpXSxy9nA
+
 阿里文娱深度语义搜索相关性探索
 https://mp.weixin.qq.com/s/1aNd3dxwjCKUJACSq1uF-Q
+
 阿里文娱算法公开课#04：算法工程师的核心技能-搜索推荐篇
 https://mp.weixin.qq.com/s/vgrWwSZLbl5svAcrxNuJpg
 
@@ -147,8 +154,10 @@ https://mp.weixin.qq.com/s/GbZK9U-ePx3zyUjnw8vvUA
 
 阿里文娱多模态视频分类算法中的特征改进
 https://mp.weixin.qq.com/s/6kTb6r3Vj3mgQn90UsZ1nw
+
 美团本地生活场景的短视频分析
 https://mp.weixin.qq.com/s/UyMDskA0eGN-NmiifwQF6Q
+
 爱奇艺视频精彩度分析
 https://mp.weixin.qq.com/s/hDqyItDxBfJ652BI0OT4dA
 
@@ -156,53 +165,73 @@ https://mp.weixin.qq.com/s/hDqyItDxBfJ652BI0OT4dA
 
 美图个性化推送的 AI 探索之路
 https://mp.weixin.qq.com/s/HRGk5bfaOdj-6X4opEYA-w
+
 深度召回在招聘推荐中的挑战和实践
 https://mp.weixin.qq.com/s/mcETNOICbabRRq9BBdL4zw
+
 推荐系统 Embedding 技术实践总结
 https://mp.weixin.qq.com/s/7DXVrJUU-PvKiQnipJKVtw
+
 网易严选画像建设实践
 https://mp.weixin.qq.com/s/pmovTV3TIoB6oA60pL_zeg
 
 网易大数据用户画像实践
 https://mp.weixin.qq.com/s/jyiDWiK0zczEaZKY5Hy5xg
+
 阅文用户画像
 https://mp.weixin.qq.com/s/ddRjNDBVuY03nQSGLncjtg
 
 信息流推荐的用户增长机制
 https://mp.weixin.qq.com/s/hjeS_nEsvxu0D_Bj2vJe7w
+
 Attention机制在深度学习推荐算法中的应用
 https://mp.weixin.qq.com/s/1LYyiDJBDKVgNjc7a1Qc4A
+
 "全能选手"召回表征算法实践--网易严选
 https://mp.weixin.qq.com/s/s4tNPWQrisYIiMuNUzEtNQ
 
 360展示广告智能化演进
 https://mp.weixin.qq.com/s/b7aD7yU1Ok8NZOvr3VaC2g
+
 深度学习在商业排序的应用实践-58同城
 https://mp.weixin.qq.com/s/2SRGdFZ9RVl4ljBh5MIUqQ
+
 旅行场景下的个性化营销平台揭秘
 https://mp.weixin.qq.com/s/RCtjaX3y7xa8co3GwBi2Lg
+
 阿里飞猪个性化推荐：召回篇
 https://mp.weixin.qq.com/s/323D5MFivtrmo3ISwQbpYg
+
 因果推断在阿里文娱用户增长中的应用
 https://mp.weixin.qq.com/s/oZTU7TAEf-gYzlSXdt0_BA
+
 网易云音乐推荐中的用户行为序列深度建模
 https://mp.weixin.qq.com/s/Whf0rmuVapzZAB33TUj1Ig
+
 智能推荐算法在花椒直播中的应用
 https://mp.weixin.qq.com/s/ec88cMR4K6pWyHhJs7FEFQ
+
 58同镇下沉市场中的推荐技术实践
 https://mp.weixin.qq.com/s/j6FWqkdbOdQk-qAmYNmJqQ
+
 汽车之家推荐系统排序算法迭代之路-视频
 https://mp.weixin.qq.com/s/3wAR3evFAeKfsCYJ6WLTHQ
+
 要提升微信看一看推荐混排的长期收益？试试深度强化学习
 https://mp.weixin.qq.com/s/zfVrmErz3ZaGz7Ha7qGoIw
+
 信息流推荐在凤凰新闻的业务实践
 https://mp.weixin.qq.com/s/aCTP4OCGyWxWGrlCFHSYJQ
+
 阿里文娱算法公开课#01：算法工程师的进阶之路（校招篇）
 https://mp.weixin.qq.com/s/Sc-3ktfKrRN9pwIZsibXJw
+
 知识图谱辅助的个性化推荐系统
 https://mp.weixin.qq.com/s/VqmxV_JJN61QgESQDPi93Q
+
 广告算法在阿里文娱用户增长中的实践
 https://mp.weixin.qq.com/s/NVQPv5ua9kxw1MK8UVQcuQ
+
 向量体系(Embedding)在严选的落地实践
 https://mp.weixin.qq.com/s/NJDfrGJgIE2KK_t-yJ-C9Q
 
@@ -210,50 +239,69 @@ https://mp.weixin.qq.com/s/NJDfrGJgIE2KK_t-yJ-C9Q
 
 腾讯信息流内容理解技术实践
 https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247495622&idx=1&sn=3d229e34dfe061b61bb47b4677def6a0&chksm=fbd75daacca0d4bc83d02b78b7d7c8485521eba07a03553db52ba039f3d948835f3d750a301e&scene=21#wechat_redirect
+
 微信"看一看"内容理解与推荐
 https://mp.weixin.qq.com/s/vr9bKEXI5o6L3FYig4HgNA
+
 优酷视频元素内容召回系统：多级多模态引擎探索 | 禅与文科生实用技术
 https://mp.weixin.qq.com/s/MTi_fzCA_wUR640CwWeLMg
+
 网易严选nlp-预训练语言模型的应用
 https://mp.weixin.qq.com/s/hUbMbmEtLB7L0_H4DGc8Ew
+
 深度学习在网易严选智能客服中的应用
 https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA
+
 严选智能客服业务知识库自动挖掘方案
 https://mp.weixin.qq.com/s/AyaDkbKYhdRbc-uvFHNv4w
+
 文本增强技术的研究进展及应用实践
 https://mp.weixin.qq.com/s/CHSDi2LpDOLMjWOLXlvSAg
+
 通用的图像-文本语言表征学习：多模态预训练模型 UNITER
 https://mp.weixin.qq.com/s/GxQ27vY5naaAXtp_ZTV0ZA
+
 NLP 中的实体关系抽取方法总结
 https://mp.weixin.qq.com/s/gbGZDbi7XcExgHcUqiI94w
+
 NLP技术在金融资管领域的落地实践-视频
 https://mp.weixin.qq.com/s/tQou1whJrvMY8iGxBB3_TQ
+
 情感分析在阿里小蜜中的应用
 https://mp.weixin.qq.com/s/k-gS6k3-hy-ZI_r901IGvg
+
 任务式对话中的自然语言理解
 https://mp.weixin.qq.com/s/z06l-s3RUomxlhANz8SfUg
+
 腾讯信息流热点挖掘技术实践
 https://mp.weixin.qq.com/s/keSYVCS0k3rvngGvcsJKbA
+
 医疗健康领域的短文本理解-丁香园
 https://mp.weixin.qq.com/s/CNBP5xSvr4Y3Xm1-NMS79g
+
 Seq2seq框架下的文本生成-丁香园
 https://mp.weixin.qq.com/s/NAPIUtTD7ZEAIEgoJeQM4A
+
 基于BERT的ASR纠错
 https://mp.weixin.qq.com/s/JyXN9eukS-5XKvcJORTobg
+
 跨域推荐技术在58部落内容社区的实践
 https://mp.weixin.qq.com/s/YylA34cBEshzb9sFY0gklw
+
 NLPCC：预训练在小米的推理优化落地
 https://mp.weixin.qq.com/s/itOyETgKBoRHOrIfKuphrw
+
 爱奇艺深度语义表示学习的探索与实践
 https://mp.weixin.qq.com/s/f524bPx0pq7qxXGjpa7WCQ
+
 百度语义解析 ( Text-to-SQL ) 技术研究及应用
 https://mp.weixin.qq.com/s/2ub1qbLF7cRGE_E0TsSB4g
+
 大规模预训练模型在阿里机器翻译中的应用
 https://mp.weixin.qq.com/s/phPU0SDcTQ6l1fnZi2Hy-Q
+
 热点挖掘技术在微信看一看中的应用
 https://mp.weixin.qq.com/s/oMNy-g2DxUnsGErefQBkyg
-
-
 
 诸葛越：关于算法工程师职业发展的思考
 https://mp.weixin.qq.com/s/mV-oXdWRe3Jcs9OJnXbEbw
