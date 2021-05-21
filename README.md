@@ -1,4 +1,4 @@
-# 深度学习模型实战-深度学习模型在各大公司实际生产环境的应用讲解文章
+## 实战深度学习模型文章阅读积累，主要是搜广推，欢迎关注；
 
 微信公众号： NLP从入门到放弃
 
@@ -225,7 +225,7 @@
 1. 网易严选nlp-预训练语言模型的应用
 https://mp.weixin.qq.com/s/hUbMbmEtLB7L0_H4DGc8Ew
 2. 通用的图像-文本语言表征学习：多模态预训练模型 UNITER
-  https://mp.weixin.qq.com/s/GxQ27vY5naaAXtp_ZTV0ZA
+    https://mp.weixin.qq.com/s/GxQ27vY5naaAXtp_ZTV0ZA
 3.  [美团BERT的探索和实践-201911](https://tech.meituan.com/2019/11/14/nlp-bert-practice.html)  Bert在美团场景中的改进和优化，很厉害，细节很多          
 
 ### 4.6 文本生成
