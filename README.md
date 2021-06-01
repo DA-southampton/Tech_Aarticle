@@ -142,10 +142,16 @@
 
 1. "全能选手"召回表征算法实践--网易严选
    https://mp.weixin.qq.com/s/s4tNPWQrisYIiMuNUzEtNQ
+   
 2. 深度召回在招聘推荐中的挑战和实践
    https://mp.weixin.qq.com/s/mcETNOICbabRRq9BBdL4zw
+   
 3. 阿里飞猪个性化推荐：召回篇
    https://mp.weixin.qq.com/s/323D5MFivtrmo3ISwQbpYg
+   
+4. YouTube采样修正的双塔模型论文精读
+
+   https://mp.weixin.qq.com/s/us4qGD3LDgLmPy2m-qq-iw
 
 ### 3.3 排序
 
